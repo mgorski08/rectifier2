@@ -1,0 +1,16 @@
+{
+  "Detail": "Detail",
+  "Details" : "Details",
+  "ID": "Detail's ID: ",
+  "dName": "Name: ",
+  "dClient": "Client: ",
+  "dDescription" : "Description: ",
+  "Add": "Add new detail",
+  "Del": "Delete detail",
+
+  "cancel": "Cancel",
+  "close": "Close",
+  "save changes": "Save changes"
+
+
+}

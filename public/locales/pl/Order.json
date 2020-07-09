@@ -1,0 +1,14 @@
+{
+  "Order": "Zamówienie",
+  "Orders" : "Zamówienia",
+  "ID": "ID zamówienia: ",
+  "oName": "Nazwa: ",
+  "oClient": "Klient: ",
+  "oDescription" : "Opis: ",
+  "Add": "Dodaj zamówienie",
+  "Del": "Usuń zamówienie",
+  "cancel": "Anuluj",
+  "close": "Zamknij",
+  "save changes": "Zapisz zmiany"
+
+}

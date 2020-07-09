@@ -1,0 +1,16 @@
+.clock {
+    padding: 0 0.5em;
+    width: 130px;
+    text-align: center;
+    margin: 0;
+    color: #313131;
+    line-height: 2.5em;
+}
+
+@media (max-width: 590px) {
+    .clock {
+        padding: 0 !important;
+        text-align: center !important;
+        width: auto;
+    }
+}

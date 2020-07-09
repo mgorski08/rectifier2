@@ -1,0 +1,19 @@
+{
+  "Clients": "Clients",
+  "Client": "Client: ",
+  "cID": "Client's ID: ",
+  "cName": "Name: ",
+  "dDescription" : "Description: ",
+  "Add": "Add new client",
+  "Del": "Delete client",
+  "cCity": "City: ",
+  "cStreet": "Street: ",
+  "cCode": "Code: ",
+  "cNumber": "Number: ",
+  "NIP": "NIP:",
+  "cContact": "Contact: ",
+  "cancel": "Cancel",
+  "close": "Close",
+  "save changes": "Save changes"
+
+}

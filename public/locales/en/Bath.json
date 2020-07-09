@@ -1,0 +1,10 @@
+{
+  "Bath": "Bath",
+  "Voltage": "Voltage",
+  "Power" : "Power",
+  "Temprature": "Temprature",
+  "Time": "Time",
+  "State": "Current Stand State",
+  "Discard": "Discard changes",
+  "Save": "Save changes"
+}

@@ -1,0 +1,18 @@
+{
+  "Process": "Proces: ",
+  "Processes" : "Procesy",
+
+  "ID": "ID procesu: ",
+  "Start": "Start procesu: ",
+  "End": "Koniec procesu: ",
+
+  "typeOfChrome": "Typ chromu: ",
+  "nrOfDrawing": "Numer rysunku: ",
+  "nrOfOrder": "Numer zamówienia: ",
+  "pOperator": "Operator: ",
+  "pName": "Nazwa: ",
+  "pClient": "Klient: ",
+  "pDescription" : "Opis: ",
+  "Del": "Usuń proces"
+
+}

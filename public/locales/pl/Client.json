@@ -1,0 +1,19 @@
+{
+  "Clients": "Klienci",
+  "Client": "Klient: ",
+  "cID": "ID klienta: ",
+  "cName": "Nazwa: ",
+  "dDescription" : "Opis: ",
+  "Add": "Dodaj klienta",
+  "Del": "Usuń klienta",
+  "cCity": "Miasto: ",
+  "cStreet": "Ulica: ",
+  "cCode": "Kod pocztowy: ",
+  "cNumber": "Numer: ",
+  "NIP": "NIP:",
+  "cContact": "Kontakt: ",
+  "cancel": "Anuluj",
+  "close": "Zamknij",
+  "save changes": "Zapisz zmiany"
+
+}

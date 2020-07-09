@@ -1,0 +1,15 @@
+{
+  "Order": "Order",
+  "Orders" : "Orders",
+  "ID": "Order's ID: ",
+  "oName": "Name: ",
+  "oClient": "Client: ",
+  "oDescription" : "Description: ",
+  "Add": "Add new order",
+  "Del": "Delete order",
+
+  "cancel": "Cancel",
+  "close": "Close",
+  "save changes": "Save changes"
+
+}
